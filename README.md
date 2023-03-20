@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![欢欢's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=10076&show_icons=true&count_private=true&theme=gotham)
+
 <!--
 **10076/10076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
