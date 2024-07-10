@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![欢欢's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10076&theme=gotham&layout=compact&hide_border=true&langs_count=10)
+![huanhuan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10076&theme=gotham&layout=compact&hide_border=true&langs_count=10)
 
 
 <!--
